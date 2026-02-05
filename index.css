@@ -1,5 +1,5 @@
 body {
-    background: url(2148933766.jpg);
+    background: url('2148933766.jpg');
     background-position: bottom;
     background-attachment: fixed;
     color: white;
@@ -271,3 +271,4 @@ body {
     }
 
 }
+
