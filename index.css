@@ -1,5 +1,5 @@
 body {
-    background: url(assets/2148933766.jpg);
+    background: url(2148933766.jpg);
     background-position: bottom;
     background-attachment: fixed;
     color: white;
@@ -269,4 +269,5 @@ body {
         border-radius: 15px;
         align-items: center;
     }
+
 }
